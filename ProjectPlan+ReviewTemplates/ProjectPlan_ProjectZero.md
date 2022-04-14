@@ -2,6 +2,7 @@ Project Plan: Project Zero
 =====================
 
 **Developed by** K. Covey
+** Reviewed by** K. Covey
 
 Goal
 ---------
